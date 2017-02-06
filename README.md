@@ -9,6 +9,7 @@ Created by Dawson McCall
 ## Omeka Organizational Schema
 * The most important thing to understand about Omeka is the organizational hierarchy for content that Omeka operates from.
 * There are three basic hierarchies for organizing your content within Omeka, with each building on or pulling from the each other depending on your organizational criteria, etc.:
+
 1. Items
 2. Collections
 3. Exhibits
