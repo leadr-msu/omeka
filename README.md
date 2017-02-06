@@ -14,7 +14,7 @@ Created by Dawson McCall
 * Once added, Omeka is supposed to send each individual user a registration email with steps for getting their account set-up completed; however, this doesn't always seem to happen.
 * As a workaround, you will need to register each user with a personalized username (I use their MSU Net ID) and a general password (I use 112oldhort).
 * The first thing that students will need to do when they meet with you for the first time is to change their general password to a personalized one (they can do this by going to the Edit User button and then clicking on Change Password).
-* Basic Omeka Documentation for Managing Users - [Omeka Documentation - Managing Users 2.0](http://omeka.org/codex/Managing_Users_2.0)
+* Basic Omeka Documentation for Managing Users - [Omeka Documentation, Managing Users 2.0](http://omeka.org/codex/Managing_Users_2.0)
 
 ## Dublin Core & Omeka 
 * Dublin Core is a meta-data schema (set of terms) used as a common set of descriptors for the presentation of online resources (digital and material).
