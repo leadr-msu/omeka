@@ -23,7 +23,10 @@ Created by Dawson McCall
 
 ## Omeka Organizational Schema
 * The most important thing to understand about Omeka is the organizational hierarchy for content that Omeka operates from.
-* There are three basic hierarchies for organizing your content within Omeka, with each building on or pulling from the each other depending on your organizational criteria.
+* There are three basic hierarchical groupings for organizing your content within Omeka - Items, Collections, and Exhibits. Each of these builds on or pulls from each other depending on your organizational criteria.
+* Items are the individual pieces in your collection.
+* Collections are groups of items that have some common trait (theme, time period, artist, etc) that is important for the organization of your project.
+* Exhibits are essentially the entire project that you are presenting (made up of individual Items that are grouped into Collection).
 * IMPORTANT NOTE - The Exhibit feature has to be added with a plugin (it is easy - just follow the steps in the documentation sheet below at #3 of this section).
 * Below are some brief descriptions of these organizational groups:
   1. Items - [Omeka Documentation - Managing Items 2.0](http://omeka.org/codex/Managing_Items_2.0)
