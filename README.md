@@ -5,6 +5,8 @@ Created by Dawson McCall
 * Omeka is a web-publishing platform for the online display and curation of visual collections and exhibitions.
 * Great tool for projects utilizing visual images, physical objects, and material culture items.
 * Some of the most importatn Omeka featues include: standards-based metadata and web design, data migration tools, exhibit building, curation and organization of material culture items/collections/exhibits, tagging features, and timeline and Google Maps plugins.
+* Good overview video for Omeka here - [Omeka 2.0 Overview - Video](https://vimeo.com/55973380)
+
 
 ## Registering Users
 * There is not useful, dependable batch add for users.
@@ -28,7 +30,6 @@ Created by Dawson McCall
   3. Exhibits - [Omeka Documentation - Exhibits, Plugins/Exhibit Builder 2.0](http://omeka.org/codex/Plugins/ExhibitBuilder_2.0)
 
 ## Other Useful Omeka Video Tutorials & Documentation
-- [Omeka 2.0 Overview - Video](https://vimeo.com/55973380)
 - [Omeka Youtube Tutorial, Digital Liberal Arts @ Mac - Items](https://www.youtube.com/watch?v=R9DlnSIYdCU)
 - [Omeka Documentation - Managing Tags](http://omeka.org/codex/Managing_Tags_2.0)
 - [Omeka Documentation - Managing Themes](http://omeka.org/codex/Managing_Themes_2.0)
