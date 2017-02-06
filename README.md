@@ -18,7 +18,7 @@ Created by Dawson McCall
 * Below are some brief descriptions of these organizational groups:
   1. Items - [Omeka Documentation - Managing Items 2.0](http://omeka.org/codex/Managing_Items_2.0)
   2. Collections - [Omeka Documentation - Managing Collections 2.0](http://omeka.org/codex/Managing_Collections_2.0)
-  3. Exhibits - [Omeka Documentation - Exhibigts, Plugins/Exhibit Builder 2.0](http://omeka.org/codex/Plugins/ExhibitBuilder_2.0)
+  3. Exhibits - [Omeka Documentation - Exhibits, Plugins/Exhibit Builder 2.0](http://omeka.org/codex/Plugins/ExhibitBuilder_2.0)
 
 ## Other Useful Omeka Video Tutorials & Documentation
 - [Omeka 2.0 Overview - Video](https://vimeo.com/55973380)
