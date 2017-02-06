@@ -9,7 +9,7 @@ Created by Dawson McCall
 ## Dublin Core & Omeka 
 * Dublin Core is a meta-data schema (set of terms) used as a common set of descriptors for the presentation of online resources (digital and material).
 * Omeka uses the Dublin Core meta-data schema in order to help organize, describe, and document the content of your Omeka projects.
-* Omeka provides a short description of how you can effectively use the Dublin Core Schema - [Working with Dublin Core - Omeka](http://omeka.org/codex/Working_with_Dublin_Core}
+* Omeka provides a short description of how you can effectively use the Dublin Core Schema - [Working with Dublin Core - Omeka](http://omeka.org/codex/Working_with_Dublin_Core)
 
 ## Omeka Organizational Schema
 * The most important thing to understand about Omeka is the organizational hierarchy for content that Omeka operates from.
