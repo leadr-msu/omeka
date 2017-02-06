@@ -5,7 +5,7 @@ Created by Dawson McCall
 * Omeka is a web-publishing platform for the online display and curation of visual collections and exhibitions.
 * Great tool for projects utilizing visual images, physical objects, and material culture items.
 * Some of the most importatn Omeka featues include: standards-based metadata and web design, data migration tools, exhibit building, curation and organization of material culture items/collections/exhibits, tagging features, and timeline and Google Maps plugins.
-* Good overview video for Omeka here - [Omeka 2.0 Overview (Video)](https://vimeo.com/55973380)
+* Good overview video for Omeka here - [Omeka Documentation, 2.0 Overview (Video)](https://vimeo.com/55973380)
 
 
 ## Registering & Managing Users
@@ -19,7 +19,7 @@ Created by Dawson McCall
 ## Dublin Core & Omeka 
 * Dublin Core is a meta-data schema (set of terms) used as a common set of descriptors for the presentation of online resources (digital and material).
 * Omeka uses the Dublin Core meta-data schema in order to help organize, describe, and document the content of your Omeka projects.
-* Omeka provides a short description of how you can effectively work with the Dublin Core Schema - [Working with Dublin Core](http://omeka.org/codex/Working_with_Dublin_Core)
+* Omeka provides a short description of how you can effectively work with the Dublin Core Schema - [Omeka Documentation, Working with Dublin Core](http://omeka.org/codex/Working_with_Dublin_Core)
 
 ## Omeka Organizational Schema
 * The most important thing to understand about Omeka is the organizational hierarchy for content that Omeka operates from.
