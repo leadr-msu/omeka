@@ -6,6 +6,13 @@ Created by Dawson McCall
 * Great tool for projects utilizing visual images, physical objects, and material culture items.
 * Some of the most importatn Omeka featues include: standards-based metadata and web design, data migration tools, exhibit building, curation and organization of material culture items/collections/exhibits, tagging features, and timeline and Google Maps plugins.
 
+## Registering Users
+* There is not useful, dependable batch add for users.
+* You will need to add each individual user one by one.
+* Once added, Omeka is supposed to send each individual user an registration email with steps for getting their account set-up compelted; however, this doesn't always seem to happen.
+* As a workaround, you will need to register each user with a personalized username (I use their MSU Net ID) and a general password (I use 112oldhort).
+* The first thing that students will need to do when they meet with you for the first time is to change their general password to a personalized one (they can do this by going to the Edit User button and then clicking on Change Password).
+
 ## Dublin Core & Omeka 
 * Dublin Core is a meta-data schema (set of terms) used as a common set of descriptors for the presentation of online resources (digital and material).
 * Omeka uses the Dublin Core meta-data schema in order to help organize, describe, and document the content of your Omeka projects.
