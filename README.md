@@ -38,3 +38,6 @@ Created by Dawson McCall
 - [Omeka Documentation - Managing Tags](http://omeka.org/codex/Managing_Tags_2.0)
 - [Omeka Documentation - Managing Themes](http://omeka.org/codex/Managing_Themes_2.0)
 - [Omeka Documentation - Managing Navigation](http://omeka.org/codex/Managing_Navigation_2.0)
+
+-----
+###Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
