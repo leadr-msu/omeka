@@ -40,4 +40,4 @@ Created by Dawson McCall
 - [Omeka Documentation - Managing Navigation](http://omeka.org/codex/Managing_Navigation_2.0)
 
 -----
-###Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
+### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
