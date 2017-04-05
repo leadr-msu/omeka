@@ -37,20 +37,20 @@ To configure your theme, click the “Configure Theme” button below the theme 
 
 **Header and Footer configuration options are:**
 
-*Logo file. You may upload a logo file that will replace the site title in the header of the theme. Recommended maximum width for the logo is 500px.
-*Header image. Upload an image file that will display across the top of each of your public website's pages, usually below the navigation bar.
-*Background image. Upload an image file that will display, tiled, in the background of each of your site's pages.
-*Footer text. An HTML-enabled text box where you can enter text for a site footer to appear on every page.
-*Display copyright in footer. Check this box if you wish to display your site’s copyright information in the footer. Site copyright information is found in the General Settings section.
-*Use Advanced Site-wide search. Check this box to allow public-side site visitors to search the whole site, including items, collections, and files, and to use boolean methods when searching.
+* Logo file. You may upload a logo file that will replace the site title in the header of the theme. Recommended maximum width for the logo is 500px.
+* Header image. Upload an image file that will display across the top of each of your public website's pages, usually below the navigation bar.
+* Background image. Upload an image file that will display, tiled, in the background of each of your site's pages.
+* Footer text. An HTML-enabled text box where you can enter text for a site footer to appear on every page.
+* Display copyright in footer. Check this box if you wish to display your site’s copyright information in the footer. Site copyright information is found in the General Settings section.
+* Use Advanced Site-wide search. Check this box to allow public-side site visitors to search the whole site, including items, collections, and files, and to use boolean methods when searching.
 
 **Homepage configuration options:**
 
-*Display Featured Item. Check this box if you wish to show a featured item on the homepage.
-*Display Featured Collection. Check this box if you wish to show a featured collection on the homepage.
-*Display Featured Exhibit. Check this box if you wish to show a featured exhibit on the homepage.
-*Homepage Recent Items. Choose the number of recent items to be displayed on the homepage. These will appear in the order in which they were mostly recently added to the archive.
-*Homepage Text. Add some text to be displayed on your homepage above the Featured Items. This is a good place to add a very short tagline or description of your site.
+* Display Featured Item. Check this box if you wish to show a featured item on the homepage.
+* Display Featured Collection. Check this box if you wish to show a featured collection on the homepage.
+* Display Featured Exhibit. Check this box if you wish to show a featured exhibit on the homepage.
+* Homepage Recent Items. Choose the number of recent items to be displayed on the homepage. These will appear in the order in which they were mostly recently added to the archive.
+* Homepage Text. Add some text to be displayed on your homepage above the Featured Items. This is a good place to add a very short tagline or description of your site.
 
 Save longer explanations for an About page.
 
