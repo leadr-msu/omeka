@@ -36,6 +36,7 @@ Each theme will have a 'Configure Theme' button once it is selected. Configurati
 To configure your theme, click the “Configure Theme” button below the theme graphic to customize your site. While not all themes have the same configuration settings, most will have the following two sections:
 
 **Header and Footer configuration options are:**
+
 *Logo file. You may upload a logo file that will replace the site title in the header of the theme. Recommended maximum width for the logo is 500px.
 *Header image. Upload an image file that will display across the top of each of your public website's pages, usually below the navigation bar.
 *Background image. Upload an image file that will display, tiled, in the background of each of your site's pages.
@@ -44,6 +45,7 @@ To configure your theme, click the “Configure Theme” button below the theme 
 *Use Advanced Site-wide search. Check this box to allow public-side site visitors to search the whole site, including items, collections, and files, and to use boolean methods when searching.
 
 **Homepage configuration options:**
+
 *Display Featured Item. Check this box if you wish to show a featured item on the homepage.
 *Display Featured Collection. Check this box if you wish to show a featured collection on the homepage.
 *Display Featured Exhibit. Check this box if you wish to show a featured exhibit on the homepage.
