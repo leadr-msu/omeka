@@ -1,5 +1,5 @@
 # Omeka Tutorial
-Created by Dawson McCall and Brandon Locke
+Created by Dawson McCall, Brandon Locke, and Autumn Painter
 
 ## Omeka Overview
 * Omeka is a web-publishing platform for the online display and curation of visual collections and exhibitions.
@@ -61,6 +61,21 @@ You can customize the navigation bar by clicking 'Appearance' at the top of the 
 
 ### Changing the default home page
 You can change the default home page by clicking 'Appearance' at the top of the screen, and then clicking on the 'Navigation' tab. On the right, there is a dropdown where you can select the default home page. If the page you want to be your home page is not listed, you need to add the link to the navigation list (you can uncheck it so that it does not appear in the menu) and then select that as your home page.
+
+### Adding an Image to the Exhibit Landing Page
+* The student will need the image URL (aka. https://www.hollywoodcemetery.org/images/slider/3rotator.jpg)
+* Then go the the exhibit tab
+* Click your exhibit, press edit
+* Under “exhibit metadata” go to the description box
+* Click the HTML option on the top right menu bar for that box
+* It will open a “HTML Source Editor”
+* If you would like the image at the bottom of your exhibit description, place the code below underneath the existing text (if you would  like it at the top of the page, place the code before any of the existing text
+  * <img src=“YOUR URL" alt="cemetery" style="width: 50%;" />
+* Replace YOUR URL with the url of the image between the quotation marks
+* You can adjust the width of the image by percentage
+* Press Update
+* Press Save Changes
+* Then View Public Page to check that it worked
 
 
 ## Other Useful Omeka Video Tutorials & Documentation
