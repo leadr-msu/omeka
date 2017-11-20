@@ -6,6 +6,7 @@ Created by Dawson McCall, Brandon Locke, and Autumn Painter
 * Great tool for projects utilizing visual images, physical objects, and material culture items.
 * Some of the most importatn Omeka featues include: standards-based metadata and web design, data migration tools, exhibit building, curation and organization of material culture items/collections/exhibits, tagging features, and timeline and Google Maps plugins.
 * Good overview video for Omeka here - [Omeka Documentation, 2.0 Overview (Video)](https://vimeo.com/55973380)
+* Another guide on Omeka here [Omeka Classic Exhibit Builder Tutorial](https://omeka.org/classic/docs/Plugins/ExhibitBuilder/)
 
 ## Dublin Core & Omeka
 * Dublin Core is a metadata schema (set of terms) used as a common set of descriptors for the presentation of online resources (digital and material).
