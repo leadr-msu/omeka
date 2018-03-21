@@ -85,4 +85,4 @@ You can change the default home page by clicking 'Appearance' at the top of the 
 - [Omeka Documentation - Managing Navigation](http://omeka.org/codex/Managing_Navigation_2.0)
 
 -----
-### Return to [LEADR's Resources list](http://leadr-msu.github.io/Resources/)
+### Return to [LEADR's Resources list](http://leadr-msu.github.io/resources/)
