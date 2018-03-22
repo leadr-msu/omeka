@@ -63,7 +63,7 @@ You can customize the navigation bar by clicking 'Appearance' at the top of the 
 You can change the default home page by clicking 'Appearance' at the top of the screen, and then clicking on the 'Navigation' tab. On the right, there is a dropdown where you can select the default home page. If the page you want to be your home page is not listed, you need to add the link to the navigation list (you can uncheck it so that it does not appear in the menu) and then select that as your home page.
 
 ### Adding an Image to the Exhibit Landing Page
-* The student will need the image URL (aka. https://www.hollywoodcemetery.org/images/slider/3rotator.jpg)
+* The student will need the image URL (aka. [https://www.hollywoodcemetery.org/images/slider/3rotator.jpg](mediaspace.msu.edu))
 * Then go the the exhibit tab
 * Click your exhibit, press edit
 * Under “exhibit metadata” go to the description box
